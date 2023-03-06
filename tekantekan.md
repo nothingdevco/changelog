@@ -1,5 +1,11 @@
 A list of new updates on the system
 
+#### 1.1.0
+1. Changed and fixed some bot issues
+2. Changed some template format
+3. Changed Push table to DataTable
+4. Adding search, export & print button to the tracking
+
 #### 1.0.11
 1. Admin can add new order from system
 
